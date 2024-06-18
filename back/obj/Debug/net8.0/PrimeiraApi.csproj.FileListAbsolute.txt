@@ -1,0 +1,135 @@
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\appsettings.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\PrimeiraApi.exe
+C:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\PrimeiraApi.deps.json
+C:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\PrimeiraApi.runtimeconfig.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\PrimeiraApi.pdb
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.csproj.AssemblyReference.cache
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.AssemblyInfoInputs.cache
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.AssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\Primeira.88E4AD8F.Up2Date
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\refint\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.pdb
+C:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\0xPaulo\code\c#\PrimeiraApi\obj\Debug\net8.0\ref\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\appsettings.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\PrimeiraApi.exe
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\PrimeiraApi.deps.json
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\PrimeiraApi.runtimeconfig.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\PrimeiraApi.pdb
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.csproj.AssemblyReference.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.AssemblyInfoInputs.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.AssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.sourcelink.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\Primeira.88E4AD8F.Up2Date
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\refint\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.pdb
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiC#\obj\Debug\net8.0\ref\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\appsettings.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\PrimeiraApi.exe
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\PrimeiraApi.deps.json
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\PrimeiraApi.runtimeconfig.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\PrimeiraApi.pdb
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.csproj.AssemblyReference.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.AssemblyInfoInputs.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.AssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.sourcelink.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\Primeira.88E4AD8F.Up2Date
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\refint\PrimeiraApi.dll
+c:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.pdb
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\0xPaulo\code\c#\CRIANDO UMA API DOTNET\PrimeiraApiCS\obj\Debug\net8.0\ref\PrimeiraApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\appsettings.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\PrimeiraApi.exe
+C:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\PrimeiraApi.deps.json
+C:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\PrimeiraApi.runtimeconfig.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\PrimeiraApi.pdb
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.csproj.AssemblyReference.cache
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.AssemblyInfoInputs.cache
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.AssemblyInfo.cs
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.sourcelink.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeiraApi.props
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\Primeira.88E4AD8F.Up2Date
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\refint\PrimeiraApi.dll
+c:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.pdb
+C:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\0xPaulo\code\CS\PrimeiraApiCS\back\obj\Debug\net8.0\ref\PrimeiraApi.dll
