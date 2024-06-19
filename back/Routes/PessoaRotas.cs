@@ -1,3 +1,4 @@
+using back.Entidades;
 using PrimeiraApi.Entidades;
 
 namespace PrimeiraApi.Routes
@@ -9,43 +10,37 @@ namespace PrimeiraApi.Routes
     {
 
         public static List<Pessoa> Pessoas = new(){
-        new (Guid.NewGuid(), "Romario"),
-        new (Guid.NewGuid(), "Betao"),
-        new (Guid.NewGuid(), "Tursvaldo")
+        new (Guid.NewGuid(), "Joao"),
+        new (Guid.NewGuid(), "Maria"),
+        new (Guid.NewGuid(), "Jose")
     };
         public static void MapPessoaRotas(this WebApplication app)
         {
             app.MapGet("/pessoas", () => Pessoas);
-            app.MapGet("/pessoas/{nome}", (string nome) => Pessoas.Find(x => x.Nome == nome));
-            app.MapPost("/pessoas", (Pessoa pessoa) =>
+            app.MapGet("/pessoas/{id}", (Guid id) => Pessoas.Find(x => x.Id == id));
+            app.MapPost("/pessoas", (NomePessoa NomePessoa) =>
             {
-                if (pessoa.Nome != "Serjao")
+                if (NomePessoa == null) return Results.BadRequest(new { mensagem = "Pessoa Invalida" });
+                Pessoa novaPessoa = new Pessoa(Id: Guid.NewGuid(), Nome: "")
                 {
-                    return Results.BadRequest(new { mensagem = "nao é o serjao" });
-                }
-                Pessoas.Add(pessoa);
-                return Results.Ok(pessoa);
+                    Nome = NomePessoa.Nome
+                };
+                Pessoas.Add(novaPessoa);
+                return Results.Ok(novaPessoa);
             });
-            app.MapPut("/pessoas/{id}", (Guid id, Pessoa pessoa) =>
+            app.MapPut("/pessoas/{id}", (Guid id, Pessoa novoNome) =>
             {
-                var achado = Pessoas.Find(x => x.Id == id);
-                if (achado == null)
-                {
-                    return Results.NotFound();
-                }
-                achado.Nome = pessoa.Nome;
-                return Results.Ok();
+                var pessoaEncontrada = Pessoas.Find(x => x.Id == id);
+                if (pessoaEncontrada == null) return Results.NotFound(new { mensagem = "Pessoa nao encontada" });
+                pessoaEncontrada.Nome = novoNome.Nome;
+                return Results.Ok(pessoaEncontrada);
             });
-            app.MapDelete("/pessoas/{nome}", (string nome) =>
+            app.MapDelete("/pessoas/{id}", (Guid id) =>
             {
-                var achado = Pessoas.Find(x => x.Nome == nome);
-                if (achado == null)
-                {
-                    return Results.NotFound();
-                }
-                Pessoas.Remove(achado);
-                return Results.Ok();
-
+                var pessoaEncontrada = Pessoas.Find(x => x.Id == id);
+                if (pessoaEncontrada == null) return Results.NotFound(new { mensagem = "Essa pessoa nao existe" });
+                Pessoas.Remove(pessoaEncontrada);
+                return Results.Ok(new { mensagem = $"A pessoa {pessoaEncontrada.Nome} foi apagada." });
             });
         }
     }
