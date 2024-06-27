@@ -3,20 +3,24 @@ using PrimeiraApi.Routes;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+// swagger V
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+// swagger ^
+
+// Cors V
 builder.Services.AddCors(option => option.AddDefaultPolicy(policy =>
 {
     policy.AllowAnyOrigin();
     policy.AllowAnyHeader();
     policy.AllowAnyMethod();
 }));
+// Cors ^
 
+// inicia V
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// usa o ASPNETCORE_ENVIRONMENT Development
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -29,7 +33,3 @@ app.MapPessoaRotas();
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

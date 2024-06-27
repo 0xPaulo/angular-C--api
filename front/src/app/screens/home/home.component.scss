@@ -1,3 +1,17 @@
 .p {
   color: black;
 }
+.linhas {
+  border: 1px red solid;
+}
+.conteudo-centralizado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tabela {
+  width: 70%;
+}
+.padding {
+  padding: 30px;
+}
